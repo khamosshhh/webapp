@@ -1,0 +1,35 @@
+.fab.fa-github.fa-lg {
+    color: #333333;
+}
+
+.fab.fa-twitter.fa-lg {
+    color: #55acee;
+}
+
+.fab.fa-instagram.fa-lg {
+    color: #ac2bac;
+}
+
+.fab.fa-facebook-f.fa-lg {
+    color: #3b5998;
+}
+
+.mb-1 {
+    font-size: .77rem;
+}
+
+.progress.rounded {
+    height: 5px;
+}
+
+.progress-bar {
+    width: 80%
+}
+
+.mt-4.mb-1 {
+    font-size: .77rem;
+}
+
+.progress.rounded.mb-2 {
+    height: 5px;
+}
